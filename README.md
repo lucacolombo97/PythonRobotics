@@ -65,7 +65,7 @@ The simulation can therefore be logically subdivided in 4 macro sectors:
 - the reading of the map, that can be formed from a whole of polygons or it can be passed like parameter to the program as a pgm file (a grey-scale image), this in order to simplify the creation of new scenarios
 - the generation of the obstacles, that discretizes the map and generates a matrix formed from boolean values
 - the simulation, that takes care of 3 fundamental aspects: 
-  - the discretization of the straight line that aims to move the robot towards the destination,
+  - the discretization of the straight line that guides the robot towards the destination,
   - the choice of the correct strategy and 
   - the generation of the final path
 - the visualization that is done in 2 ways, a textual and a graphical representation using the python library matplotlib.
