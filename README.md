@@ -39,7 +39,7 @@ Once the circumnavigation is over and it has returned to the hit point, the robo
 
 **Output of the program:**
 
-![Bug1](https://user-images.githubusercontent.com/48442855/139586415-09d82904-ef0c-4e21-97b0-48a9832dd7c9.png)
+![Bug1](https://user-images.githubusercontent.com/48442855/139586867-e7fc710f-38c0-4808-8f31-be47a0c6c36d.png)
 
 ### Bug2 Algorithm:
 
@@ -49,7 +49,7 @@ The Bug2 algorithm, instead, behaves in the same way in the initial phase, but i
 
 **Output of the program:**
 
-![Bug2](https://user-images.githubusercontent.com/48442855/139586423-0c028c12-e865-4150-919f-f1daa0e3518a.png)
+![Bug2](https://user-images.githubusercontent.com/48442855/139586874-3aa1fad9-37da-47e6-b9fd-50d0f2530aac.png)
 
 ### The Program:
 
