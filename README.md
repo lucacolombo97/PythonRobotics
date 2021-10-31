@@ -1,5 +1,5 @@
 # PythonRobotics
-Bachelor's degree thesis project
+*Bachelor's degree thesis project.*
 
 ### General Overview:
 
