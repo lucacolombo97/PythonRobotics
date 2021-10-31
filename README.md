@@ -22,8 +22,7 @@ As shown in the example below, it is clear how the resolution affects the qualit
 ![Map_Discretization](https://user-images.githubusercontent.com/48442855/139585171-35b3a548-bf2a-4763-9c06-5980053f239b.png)
 
 Once the map has been discretized, it is passed to the actual phase of pianification of the path; numerous algorithms exist for the scope, everyone uses different techniques and methods.  
-2 algorithms of the Bug family, that is the family of defined complete algorithms, have been chosen.  
-They principally use 2 different movement strategies: 
+2 algorithms of the Bug family, that is the family of defined complete algorithms, have been chosen. They principally use 2 different movement strategies: 
 1. the first one called motion-to-goal, that is the displacement of the robot towards the goal position
 2. the second one called boundary-following, that is the circumnavigation of an obstacle. 
 
