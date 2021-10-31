@@ -35,9 +35,21 @@ In Bug1 algorithm, the robot starts from the starting point in motion-to-goal st
 This phase foresees the complete circumnavigation of the obstacle, during which the point closest to the objective, called leave point, is sought.  
 Once the circumnavigation is over and it has returned to the hit point, the robot reaches the leave point following the shortest path and returns in motion-to-goal strategy to resume the path towards the target, following this time a second straight line that connects the point of detachment from the obstacle with the destination point.
 
+![image](https://user-images.githubusercontent.com/48442855/139586200-9c418ef6-e685-4b0c-824a-2b0bd40ae077.png)
+
+**Output of the program:**
+
+![Bug1](https://user-images.githubusercontent.com/48442855/139586415-09d82904-ef0c-4e21-97b0-48a9832dd7c9.png)
+
 ### Bug2 Algorithm:
 
 The Bug2 algorithm, instead, behaves in the same way in the initial phase, but it modifies its behavior when an obstacle is encountered: in this case it always passes in the boundary-following phase, but this time it does not perform a complete circumnavigation but it stops when it intersects the initial straight line that joins point of departure and point of arrival in the point that is always called leave point closer to the objective; when this happens it returns in motion-to-goal strategy always following the same straight line. So unlike before the line is always the same and is the one drawn initially.
+
+![image](https://user-images.githubusercontent.com/48442855/139586522-b2d361bc-deb1-4042-8618-73fdabb4e0e8.png)
+
+**Output of the program:**
+
+![Bug2](https://user-images.githubusercontent.com/48442855/139586423-0c028c12-e865-4150-919f-f1daa0e3518a.png)
 
 ### The Program:
 
@@ -58,3 +70,12 @@ The simulation can therefore be logically subdivided in 4 macro sectors:
   - the choice of the correct strategy and 
   - the generation of the final path
 - the visualization that is done in 2 ways, a textual and a graphical representation using the python library matplotlib.
+
+**Bug1 Simulation:**
+
+https://user-images.githubusercontent.com/48442855/139586467-6946f1c8-e8f5-461d-b212-04a7753e6ec7.mp4
+
+
+**Bug2 Simulation:**
+
+https://user-images.githubusercontent.com/48442855/139586479-de9665f2-1119-4a54-8149-45c9dd565855.mp4
