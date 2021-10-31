@@ -73,9 +73,8 @@ The simulation can therefore be logically subdivided in 4 macro sectors:
 
 **Bug1 Simulation:**
 
-https://user-images.githubusercontent.com/48442855/139586467-6946f1c8-e8f5-461d-b212-04a7753e6ec7.mp4
-
+https://user-images.githubusercontent.com/48442855/139586693-beca577f-28bf-4e50-8ad8-d5428b5e6fce.mov
 
 **Bug2 Simulation:**
 
-https://user-images.githubusercontent.com/48442855/139586479-de9665f2-1119-4a54-8149-45c9dd565855.mp4
+https://user-images.githubusercontent.com/48442855/139586723-6d0b7764-27d3-4849-b8a5-023cf3ba6927.mov
